@@ -3,7 +3,7 @@
 ### Originally created by Mark Helt, and Ausitin Cummings. 
 #### Further contributions by Mark Helt and John Parsons
 
-###### This is webpage was created yesterday.
+###### This webpage was created yesterday.
 
 # _Installation_
 #### To open this webpage, place the file in your **internet browser**
