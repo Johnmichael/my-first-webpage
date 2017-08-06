@@ -1,6 +1,7 @@
 # _This is a readme about a webpage._
 
-### Created by Mark Helt, and Ausitin Cummings.
+### Originally created by Mark Helt, and Ausitin Cummings. 
+#### Further contributions by Mark Helt and John Parsons
 
 ###### This is webpage is created yesterday.
 
